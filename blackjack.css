@@ -1,0 +1,36 @@
+h1{
+	color: orangered;
+}
+body{
+
+	background-image: url(img/blackjack.png);
+	background-size: cover;
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+#message-el{
+	justify-content: center;
+	border: 10px;
+
+}
+p{
+	align-self: center;
+	border: 10px;
+	color: white;
+	
+	font-style: italic;
+}
+button{
+	color: #34ad44;
+	width: 150px;
+	font-size: 20px;
+	font-weight: bold;
+	background: #d1a73d;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: none;
+	border-radius: 3px;
+}
